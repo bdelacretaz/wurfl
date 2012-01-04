@@ -6,9 +6,11 @@ but for some reason the project's SourceForge site [2] only has a much older ver
 I believe the version found here is the last free version of wurfl.xml, so
 I'm posting it here to make sure this valuable resource doesn't get lost.
 
-The md5 of that 2011-04-24-wurfl.xml file is 7542a6dc74c4c25b3026f94dce62489f and I got it from a file named 2011-04-24.zip 
-that was previously available from the wurfl website, the md5 of that file
-is 3025f981711b018cbde264524ed67c6c
+The md5 of that 2011-04-24-wurfl.xml file is 7542a6dc74c4c25b3026f94dce62489f 
+
+The md5 of the accompanying 2011-04-24-web_browsers_patch.xml file is 00b5fb83e8e83a1d2887dbceea7e6a6c - that file doesn't contain
+license information but if seems safe to assume that its license is the same as that
+of the main wurfl.xml file.
 
 Note that although (as clearly indicated in the file comments) this particular
 version of wurfl.xml has a liberal license, later versions of the same file
